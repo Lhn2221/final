@@ -8,3 +8,8 @@ https://2026final6.streamlit.app/
 파트1(고령화): https://lt6b8rfsdxs99agnqei2cd.streamlit.app/#1-2-2023
 파트2(축제): https://gwdfestival.streamlit.app/
 파트3(콘텐츠): https://final-2026.streamlit.app/
+
+<6조 파트별 app.py 코드 확인 가능한 링크>
+https://github.com/dahyun-lop/--analysis
+https://github.com/Lhn2221/-
+https://github.com/ChoSeongeon/final
